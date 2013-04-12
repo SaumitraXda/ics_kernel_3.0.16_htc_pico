@@ -23,3 +23,10 @@ BUGS
 
 - Nothing
 
+COMPILING
+=========
+
+Two defconfigs have been provided. To compile kernel for Sense 4, use pico_sense_defconfig. For all other types of rom use pico_aosp_defconfig.
+
+
+
